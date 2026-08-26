@@ -1,0 +1,8 @@
+node_modules
+.env
+.next
+dist
+*.local
+uploads/*
+!uploads/.gitkeep
+.turbo
